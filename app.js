@@ -137,12 +137,12 @@ function makeResponsive() {
       .attr("x", 0 - (height/2))
       .attr("dy", "1em")
       .attr("class", "axisText")
-      .text("Smokers");
+      .text("Smokers (%)");
 
       chartGroup.append("text")
       .attr("transform", `translate(${width / 2}, ${height + margin.top + 5})`)
       .attr("class", "axisText")
-      .text("Income Level");
+      .text("Income Level (Median)");
   
     });
 }
