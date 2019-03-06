@@ -3,7 +3,7 @@
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
 
-![4-scatter](Images/4-scatter.jpg)
+![4-scatter](images/4-scatter.jpg)
 
 A D3 scatter plot showing the relationship between two data variables: `Income Level` and `Smokers%`.
 
@@ -19,5 +19,5 @@ D3 scatter plot that represents each state with circle elements. This graphic is
 
 While the ticks on the axes allow us to infer approximate values for each circle, it's impossible to determine the true value without adding another layer of data. Enter tooltips: these reveal a specific element's data when the user hovers their cursor over the element. This example uses the `d3-tip.js` plugin developed by [Justin Palmer](https://github.com/Caged)—we've already included this plugin in your assignment directory.
 
-![8-tooltip](Images/8-tooltip.gif)
+![8-tooltip](images/8-tooltip.gif)
 
