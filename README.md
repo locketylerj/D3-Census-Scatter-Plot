@@ -3,8 +3,6 @@
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
 
-![4-scatter](images/4-scatter.jpg)
-
 A D3 scatter plot showing the relationship between two data variables: `Income Level` and `Smokers%`.
 
 D3 scatter plot that represents each state with circle elements. This graphic is coded in the `app.js`, pulling in the data from `data.csv` by using the `d3.csv` function. The scatter plot should ultimately appear like the image at the top.
